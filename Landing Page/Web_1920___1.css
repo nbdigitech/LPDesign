@@ -1,0 +1,1093 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___1 {
+	position: absolute;
+	width: 1920px;
+	height: 8766px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 486px;
+	height: 486px;
+	left: 717px;
+	top: 4633px;
+	overflow: visible;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 560px;
+	left: 0px;
+	top: 8211px;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1019px;
+	left: 0px;
+	top: 3168px;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 449px;
+	left: 0px;
+	top: 6181px;
+}
+#DC_Logo {
+	position: absolute;
+	width: 273px;
+	height: 167px;
+	left: 824px;
+	top: 54px;
+	overflow: visible;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1715px;
+	height: 624px;
+	left: 130px;
+	top: 3482px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 539px;
+	height: 277px;
+	left: 9px;
+	top: 6px;
+	overflow: visible;
+}
+.Rectangle_13 {
+	filter: drop-shadow(0px 3px 6px rgba(18, 69, 104, 1));
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_1 {
+	position: absolute;
+	width: 539px;
+	height: 277px;
+	left: 589px;
+	top: 6px;
+	overflow: visible;
+}
+.Rectangle_13_r {
+	filter: drop-shadow(0px 3px 6px rgba(18, 69, 104, 1));
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_2 {
+	position: absolute;
+	width: 539px;
+	height: 277px;
+	left: 1169px;
+	top: 6px;
+	overflow: visible;
+}
+.Rectangle_13_t {
+	filter: drop-shadow(0px 3px 6px rgba(18, 69, 104, 1));
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_3 {
+	position: absolute;
+	width: 539px;
+	height: 277px;
+	left: 9px;
+	top: 331px;
+	overflow: visible;
+}
+.Rectangle_13_v {
+	filter: drop-shadow(0px 3px 6px rgba(18, 69, 104, 1));
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_4 {
+	position: absolute;
+	width: 539px;
+	height: 277px;
+	left: 589px;
+	top: 331px;
+	overflow: visible;
+}
+.Rectangle_13_x {
+	filter: drop-shadow(0px 3px 6px rgba(18, 69, 104, 1));
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_5 {
+	position: absolute;
+	width: 539px;
+	height: 277px;
+	left: 1169px;
+	top: 331px;
+	overflow: visible;
+}
+.Rectangle_13_z {
+	filter: drop-shadow(0px 3px 6px rgba(18, 69, 104, 1));
+	position: absolute;
+	overflow: visible;
+	width: 557px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+}
+#DC_Logo_ {
+	position: absolute;
+	width: 325px;
+	height: 200px;
+	left: 94px;
+	top: 8277px;
+	overflow: visible;
+}
+#Education_is_not_only_learning {
+	position: absolute;
+	left: 326px;
+	top: 267px;
+	overflow: visible;
+	width: 1269px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Find_the_Right_Direction_with_ {
+	position: absolute;
+	left: 460px;
+	top: 467px;
+	overflow: visible;
+	width: 1001px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(15,117,189,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 989px;
+	left: 0px;
+	top: 781px;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 325px;
+	left: 0px;
+	top: 4187px;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 202px;
+	left: 0px;
+	top: 7960px;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 32px;
+	left: 0px;
+	top: 8202px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 986px;
+	height: 452px;
+	left: 467px;
+	top: 572px;
+}
+#Education_in_Trusted_Hands_sin {
+	position: absolute;
+	left: 336px;
+	top: 1055px;
+	overflow: visible;
+	width: 1249px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}
+#Hand_over_your_Child_s_future_ {
+	position: absolute;
+	left: 433px;
+	top: 1531px;
+	overflow: visible;
+	width: 1055px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}
+#ID100_100_is_easy_with_DC_____ {
+	position: absolute;
+	left: 279px;
+	top: 4255px;
+	overflow: visible;
+	width: 1363px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Nikita_is_a_women_entrepreneur {
+	position: absolute;
+	left: 280px;
+	top: 5264px;
+	overflow: visible;
+	width: 1361px;
+	height: 393px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#About_Nikita_Shrivastava {
+	position: absolute;
+	left: 570px;
+	top: 5139px;
+	overflow: visible;
+	width: 837px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Our_Achievers {
+	position: absolute;
+	left: 724px;
+	top: 5801px;
+	overflow: visible;
+	width: 473px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#What_Students_are_saying_about {
+	position: absolute;
+	left: 99px;
+	top: 6752px;
+	overflow: visible;
+	width: 1723px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	height: 126px;
+	left: 554px;
+	top: 1173px;
+}
+#SCHEDULE_A_CALL_NOW {
+	position: absolute;
+	left: 631px;
+	top: 1199px;
+	overflow: visible;
+	width: 601px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(11,73,117,1);
+}
+#SCHEDULE_A_CALL_NOW_bh {
+	position: absolute;
+	left: 404px;
+	top: 7997px;
+	overflow: visible;
+	width: 1031px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(11,73,117,1);
+}
+#Scoring_the_magic_figure_in_ex {
+	position: absolute;
+	left: 167px;
+	top: 2441px;
+	overflow: visible;
+	width: 1587px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 53px;
+	color: rgba(11,73,117,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 28.209px;
+	height: 47.933px;
+	left: 1252.533px;
+	top: 1214.831px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 44.129px;
+	height: 79.772px;
+	left: 1478.045px;
+	top: 8024.04px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 44.129px;
+	height: 79.772px;
+	left: 1844.045px;
+	top: 6195.04px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 44.129px;
+	height: 79.773px;
+	left: 63.045px;
+	top: 6195.04px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 124px;
+	left: 0px;
+	top: 1352px;
+}
+#For_us___every_student_counts {
+	position: absolute;
+	left: 483px;
+	top: 1369px;
+	overflow: visible;
+	width: 955px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Steps_to_Success {
+	position: absolute;
+	left: 681px;
+	top: 1813px;
+	overflow: visible;
+	width: 559px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#About_Us_ {
+	position: absolute;
+	left: 801px;
+	top: 2318px;
+	overflow: visible;
+	width: 319px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Our_Features {
+	position: absolute;
+	left: 745px;
+	top: 3209px;
+	overflow: visible;
+	width: 431px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}
+#Shouldn_t_the_path_to_those_sc {
+	position: absolute;
+	left: 416px;
+	top: 2604px;
+	overflow: visible;
+	width: 1089px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40px;
+	color: rgba(11,73,117,1);
+}
+#IMPACT {
+	position: absolute;
+	left: 339px;
+	top: 3508px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#TEST_SERIES__IGCSE_SPECIFIC_ {
+	position: absolute;
+	left: 188px;
+	top: 3843px;
+	overflow: visible;
+	width: 440px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#BATCH_OF_FIVE {
+	position: absolute;
+	left: 877px;
+	top: 3843px;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#COUNSELLING_SESSIONS {
+	position: absolute;
+	left: 1398px;
+	top: 3843px;
+	overflow: visible;
+	width: 362px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#TAILORED_LEARNING {
+	position: absolute;
+	left: 834px;
+	top: 3508px;
+	overflow: visible;
+	width: 296px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#CAMBRIDGE_TRAINED_TUTORS {
+	position: absolute;
+	left: 1335px;
+	top: 3508px;
+	overflow: visible;
+	width: 441px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Better_Grades__Better_Learning {
+	position: absolute;
+	left: 259px;
+	top: 3309px;
+	overflow: visible;
+	width: 1403px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#We_make_you_practice_large_amo {
+	position: absolute;
+	left: 233px;
+	top: 3572px;
+	overflow: visible;
+	width: 350px;
+	height: 156px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Score_more_with_us_complete_co {
+	position: absolute;
+	left: 233px;
+	top: 3913px;
+	overflow: visible;
+	width: 350px;
+	height: 156px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#To_promote_questioning_and_dou {
+	position: absolute;
+	left: 813px;
+	top: 3913px;
+	overflow: visible;
+	width: 350px;
+	height: 156px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Counseling_offers_an_opportuni {
+	position: absolute;
+	left: 1369px;
+	top: 3913px;
+	overflow: visible;
+	width: 374px;
+	height: 156px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Smart_and_well_designed_course {
+	position: absolute;
+	left: 781px;
+	top: 3571px;
+	overflow: visible;
+	width: 414px;
+	height: 175px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#We_have_a_team_of_well_experie {
+	position: absolute;
+	left: 1393px;
+	top: 3571px;
+	overflow: visible;
+	width: 365px;
+	height: 175px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#We__at_DIRECTION_CLASSES__make {
+	position: absolute;
+	left: 292px;
+	top: 2706px;
+	overflow: visible;
+	width: 1474px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 36px;
+	color: rgba(11,73,117,1);
+}
+#Schedule {
+	position: absolute;
+	left: 235px;
+	top: 2109px;
+	overflow: visible;
+	width: 311px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Signup {
+	position: absolute;
+	left: 842px;
+	top: 2109px;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Talk {
+	position: absolute;
+	left: 1487px;
+	top: 2109px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(11,73,117,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 63.81px;
+	height: 35.344px;
+	left: 192.991px;
+	top: 2714.895px;
+	overflow: visible;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 63.81px;
+	height: 18.352px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 63.81px;
+	height: 16.992px;
+	left: 0px;
+	top: 18.352px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 63.81px;
+	height: 35.344px;
+	left: 192.991px;
+	top: 2878.443px;
+	overflow: visible;
+}
+.Path_2_ce {
+	overflow: visible;
+	position: absolute;
+	width: 63.81px;
+	height: 18.352px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_3_cf {
+	overflow: visible;
+	position: absolute;
+	width: 63.81px;
+	height: 16.992px;
+	left: 0px;
+	top: 18.352px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3 {
+	position: absolute;
+	width: 63.81px;
+	height: 35.344px;
+	left: 192.991px;
+	top: 3042.068px;
+	overflow: visible;
+}
+.Path_2_ch {
+	overflow: visible;
+	position: absolute;
+	width: 63.81px;
+	height: 18.352px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_3_ci {
+	overflow: visible;
+	position: absolute;
+	width: 63.81px;
+	height: 16.992px;
+	left: 0px;
+	top: 18.352px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 16px;
+	left: 0px;
+	top: 2045px;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 112px;
+	left: 316px;
+	top: 1997px;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 112px;
+	left: 904px;
+	top: 1997px;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 112px;
+	left: 1492px;
+	top: 1997px;
+}
+#ID1 {
+	position: absolute;
+	left: 358px;
+	top: 2000px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 81px;
+	color: rgba(255,221,0,1);
+}
+#ID2 {
+	position: absolute;
+	left: 937px;
+	top: 1997px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 81px;
+	color: rgba(255,221,0,1);
+}
+#ID3 {
+	position: absolute;
+	left: 1524px;
+	top: 1997px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 81px;
+	color: rgba(255,221,0,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 486px;
+	height: 486px;
+	left: 717px;
+	top: 4633px;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 727px;
+	left: 101px;
+	top: 7083px;
+}
+.Rectangle_8_cs {
+	position: absolute;
+	overflow: visible;
+	width: 521px;
+	height: 727px;
+	left: 700px;
+	top: 7083px;
+}
+.Rectangle_8_ct {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 727px;
+	left: 1298px;
+	top: 7083px;
+}
+#Get_in_touch_with_us_Website__ {
+	position: absolute;
+	left: 1116px;
+	top: 8364px;
+	overflow: visible;
+	width: 724px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -29px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 318px;
+	height: 6px;
+	left: 1521.5px;
+	top: 8420.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shop_No_40__Mayuresh_Shristhi_ {
+	position: absolute;
+	left: 94px;
+	top: 8514px;
+	overflow: visible;
+	width: 506px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -14px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#ICSE_Aarya_gupta {
+	position: absolute;
+	width: 508px;
+	height: 508px;
+	left: 132px;
+	top: 5979px;
+	overflow: visible;
+}
+#ICSE_Advika {
+	position: absolute;
+	width: 508px;
+	height: 508px;
+	left: 695px;
+	top: 5979px;
+	overflow: visible;
+}
+#ICSE_Anish {
+	position: absolute;
+	width: 505px;
+	height: 505px;
+	left: 1284px;
+	top: 5979px;
+	overflow: visible;
+}
+#Bhushan_Dave__91_4__10th_NES_I {
+	position: absolute;
+	left: 124px;
+	top: 7268px;
+	overflow: visible;
+	width: 478px;
+	height: 587px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Sakshi_hirlekar__90_6__10th_Pa {
+	position: absolute;
+	left: 722px;
+	top: 7268px;
+	overflow: visible;
+	width: 478px;
+	height: 587px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Siddharth_Pandey__93_8__10th_P {
+	position: absolute;
+	left: 1321px;
+	top: 7268px;
+	overflow: visible;
+	width: 478px;
+	height: 587px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#shakshi {
+	position: absolute;
+	width: 290px;
+	height: 290px;
+	left: 823px;
+	top: 6947px;
+	overflow: visible;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 292px;
+	height: 291px;
+	left: 821px;
+	top: 6946px;
+}
+#sidharth {
+	position: absolute;
+	width: 282px;
+	height: 282px;
+	left: 1420px;
+	top: 6955px;
+	overflow: visible;
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 291px;
+	left: 1414px;
+	top: 6946px;
+}
+#bhushan {
+	position: absolute;
+	width: 288px;
+	height: 288px;
+	left: 220px;
+	top: 6947px;
+	overflow: visible;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 292px;
+	height: 291px;
+	left: 218px;
+	top: 6946px;
+}
